@@ -1,4 +1,4 @@
-﻿
+// updated version of https://www.codeproject.com/articles/27992/nat-traversal-with-upnp-in-c﻿
 namespace P2PTransfer
 {
     using System;
