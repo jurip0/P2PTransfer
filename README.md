@@ -1,5 +1,5 @@
 # P2PTransfer
-No install P2P transfer console app using UPNP without any libraries. 
+No install P2P file transfer with AES encryption console app using UPNP without any libraries. 
 
 # WARNING
 UPNP opens ports on your router.
